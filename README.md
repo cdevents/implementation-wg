@@ -37,6 +37,7 @@ In alphabetical order, by first name.
 * Andrea Frittoli [afrittoli](https://github.com/afrittoli), IBM
 * Ben Powell [xibz](https://github.com/xibz), Apple
 * Jalander Ramagiri [rjalander](https://github.com/rjalander), Ericsson
+* Rasheed Mudasiru [taiwrash](https://github.com/Taiwrash), FUTMinna
 * Steve Taylor [sbtaylor15](https://github.com/sbtaylor15), DeployHub
 * Tracy Ragan [tracyragan](https://github.com/tracyragan), DeployHub
 
