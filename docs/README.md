@@ -17,7 +17,7 @@ The requirements and design of the implementation vary based on the persona and 
 
 ### Messaging Platform
 
-TBD - Link to component requirements and design
+[Message Service Requirements](./message_service_requirements.md)
 
 ### Event Producers
 
